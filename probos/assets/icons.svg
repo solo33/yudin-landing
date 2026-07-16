@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="education" viewBox="0 0 24 24"><path d="m3 10 9-5 9 5-9 5-9-5Z"/><path d="M7 12v5c3 2 7 2 10 0v-5"/></symbol>
+  <symbol id="research" viewBox="0 0 24 24"><circle cx="10" cy="10" r="6"/><path d="m15 15 5 5M8 10h4M10 8v4"/></symbol>
+  <symbol id="methods" viewBox="0 0 24 24"><path d="M6 3h12v18H6zM9 8h6M9 12h6M9 16h4"/></symbol>
+  <symbol id="community" viewBox="0 0 24 24"><circle cx="8" cy="9" r="3"/><circle cx="17" cy="8" r="2"/><path d="M3 20c0-4 2-6 5-6s5 2 5 6M14 14c3 0 5 2 5 5"/></symbol>
+  <symbol id="outreach" viewBox="0 0 24 24"><path d="M4 13v-2l14-6v14L4 13ZM7 14l2 6h3l-2-7"/></symbol>
+  <symbol id="partners" viewBox="0 0 24 24"><path d="m8 12 3 3 5-6M3 12a9 9 0 1 0 18 0 9 9 0 0 0-18 0Z"/></symbol>
+  <symbol id="child" viewBox="0 0 24 24"><circle cx="12" cy="6" r="3"/><path d="M6 21c0-5 2-9 6-9s6 4 6 9M8 15l-4 2M16 15l4 2"/></symbol>
+  <symbol id="nerve" viewBox="0 0 24 24"><path d="M12 3c-3 2-4 5-2 7-3 1-4 4-2 6 1 2 3 3 5 2 2 2 5 1 6-1 1-3-1-5-4-5 2-2 1-6-3-9Z"/><path d="M12 8v8M9 11l3 2 3-2"/></symbol>
+  <symbol id="recovery" viewBox="0 0 24 24"><path d="M4 14a8 8 0 1 0 2-8M4 4v6h6"/><path d="m9 12 2 2 4-5"/></symbol>
+  <symbol id="donation" viewBox="0 0 24 24"><path d="M12 21s-8-5-8-11a4 4 0 0 1 7-3 4 4 0 0 1 7 3c0 6-6 11-6 11Z"/><path d="M12 8v7M9 11h6"/></symbol>
+  <symbol id="partnership" viewBox="0 0 24 24"><path d="m3 12 5-5 4 3 4-3 5 5-7 7h-4l-7-7Z"/><path d="m8 13 3 3M16 13l-3 3"/></symbol>
+  <symbol id="share" viewBox="0 0 24 24"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m9 11 6-4M9 13l6 4"/></symbol>
+  <symbol id="activate" viewBox="0 0 24 24"><path d="M3 12h4l2-6 4 12 2-6h6"/></symbol>
+  <symbol id="relax" viewBox="0 0 24 24"><path d="M4 8c4 0 4 3 8 3s4-3 8-3M4 16c4 0 4-3 8-3s4 3 8 3"/></symbol>
+  <symbol id="chart" viewBox="0 0 24 24"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></symbol>
+  <symbol id="home" viewBox="0 0 24 24"><path d="m3 11 9-8 9 8M5 10v11h14V10M9 21v-7h6v7"/></symbol>
+  <symbol id="professional" viewBox="0 0 24 24"><path d="M4 7h16v14H4zM9 7V4h6v3M4 12h16M10 12v2h4v-2"/></symbol>
+  <symbol id="software" viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h5M8 16h8"/></symbol>
+  <symbol id="device" viewBox="0 0 24 24"><rect x="5" y="3" width="14" height="18" rx="3"/><path d="M9 7h6M9 17h6M8 12h2l1-3 2 6 1-3h2"/></symbol>
+</svg>
