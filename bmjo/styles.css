@@ -128,6 +128,7 @@ h3 { font-size: clamp(20px, 2vw, 27px); }
 .header__inner { min-height: 84px; display: flex; align-items: center; gap: 28px; }
 .brand { display: flex; align-items: center; gap: 16px; text-decoration: none; flex: 0 0 auto; }
 .brand__bmjo { width: 132px; max-height: 52px; object-fit: contain; object-position: left center; }
+.brand__bmjo--green { width: 180px; height: 58px; max-height: none; object-fit: cover; object-position: center; }
 .brand--text { display: grid; gap: 2px; min-width: 180px; }
 .brand--text strong { color: var(--green-deep); font-family: Georgia, "Times New Roman", serif; font-size: 27px; line-height: 1; letter-spacing: .09em; }
 .brand--text span { color: var(--muted); font-size: 7px; line-height: 1.2; letter-spacing: .16em; text-transform: uppercase; }
@@ -278,6 +279,7 @@ h3 { font-size: clamp(20px, 2vw, 27px); }
   .header__inner { min-height: 72px; }
   .site-header .block-tag { top: 74px; }
   .brand__bmjo { width: 92px; }
+  .brand__bmjo--green { width: 118px; height: 42px; }
   .brand__clinic { width: 34px; height: 34px; }
   .nav.is-open { inset: 72px 0 auto; }
   .hero__grid, .split, .cta-panel, .section__head--split { grid-template-columns: 1fr; }
